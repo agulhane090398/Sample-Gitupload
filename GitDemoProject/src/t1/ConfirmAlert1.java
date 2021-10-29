@@ -35,6 +35,8 @@ public class ConfirmAlert1 {
 		System.out.println(actual);
 		if(expected.equals(actual)) {
 			System.out.println("both matches");
+			System.out.println("This new Line is added to reupload to git");
+
 		}
 		//Cancel button click
 		Thread.sleep(5000);

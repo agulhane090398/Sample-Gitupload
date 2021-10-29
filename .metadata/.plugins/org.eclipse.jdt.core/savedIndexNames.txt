@@ -1,3 +1,3 @@
-INDEX VERSION 1.131+G:\Git A\.metadata\.plugins\org.eclipse.jdt.core
+INDEX VERSION 1.131+G:\Git B clonning\Sample-Gitupload\.metadata\.plugins\org.eclipse.jdt.core
 507199116.index
 1642175237.index
